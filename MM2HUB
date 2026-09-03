@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://syncp.org/run/JhPParJ3IMQeWJRbfk3AKXaKWSvg0IHw8I1Aa0EktBxkV4QisiZrn0JInEsjDZNBNMpcaKPTl-Po"))()
+loadstring(game:HttpGet("https://api.project-reverse.org/run/eyJpZCI6ImFiMjdjNTc0LWNmYTItNDVlNi1hZWMyLTZkMjZjOGVkZDdjNSIsImtpbmQiOiJsb2FkZXIiLCJ2aXN1YWwiOnsiaWQiOiJ1bml2ZXJzYWwifX0"))()
